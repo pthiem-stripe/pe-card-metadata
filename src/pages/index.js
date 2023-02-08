@@ -69,6 +69,7 @@ export default function Home() {
                   <div className="mt-8">
                     <div className="border-2 rounded bg-gray-200 border-gray-200 mb-6 w-full text-center font-bold">
                  Use any Mastercard and get a 10% discount on your order.
+                 <div>5555555555554444</div>
                     </div>
                     <Elements stripe={stripePromise} options={options}>
                       <CheckoutForm
