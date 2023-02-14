@@ -45,8 +45,11 @@ export default function Home() {
     setElementReady(isReady);
   };
 
+  
+
   return (
     <>
+       
       <Head>
         <title>Stripe Press</title>
         <meta charSet="utf-8" />
