@@ -1,1 +1,1 @@
-[Integration Guide - Inspect Card Metadata with Payment Element]([https://docs.google.com/document/d/1GkCtKFdqaX3RFPJxbjkXEoUtQunUgfz7-j8SWHPghuQ/edit#heading=h.qwdikmov1ajq](https://docs.google.com/document/d/1lNvpNkFHWRiTFazfT1SM6krF0ak2VYhRMDH2CMicDRY/edit#))
+[Integration Guide - Inspect Card Metadata with Payment Element](https://docs.google.com/document/d/1lNvpNkFHWRiTFazfT1SM6krF0ak2VYhRMDH2CMicDRY/edit#)
